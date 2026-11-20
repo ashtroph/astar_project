@@ -1,0 +1,14 @@
+{
+  "dataset": "Synthetic offline grid (not OpenStreetMap)",
+  "nodes": 1225,
+  "directed_edges": 4760,
+  "routes": 30,
+  "astar_avg_nodes": 188.53333333333333,
+  "dijkstra_avg_nodes": 515.3333333333334,
+  "astar_avg_ms": 0.30674449711417157,
+  "dijkstra_avg_ms": 0.3831040657435854,
+  "astar_avg_distance_m": 2426.661498863987,
+  "dijkstra_avg_distance_m": 2426.661498863987,
+  "optimal_routes": 30,
+  "node_reduction_pct": 63.41526520051747
+}
